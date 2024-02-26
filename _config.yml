@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Zhenchuan Yang"
   avatar           : "profile.jpg"
-  bio              : "PhD student in Chinese University of Hong Kong"
+  bio              : "PhD student in the Chinese University of Hong Kong"
   location         : "Hong Kong"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=qyAK5l0AAAAJ&hl=en"
+  email            : "zhenchuan.yang@link.cuhk.edu.hk & zhenchuanyang1229@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Zhenchuan-Yang-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/ZhenchuanYang"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/zhenchuan-yang-2a6224267/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0802-7510"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
