@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "What's New"
-    url: /talks/ 
+    url: /_pages/What's New.md/
     
   - title: "Publications"
     # url: /publications/
