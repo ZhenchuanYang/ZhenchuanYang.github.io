@@ -10,6 +10,6 @@ location: "Hong Kong"
 
 參賽項目：地理資訊系統及元建模提升模塊化建築物流及現場布局
 
-![Certification](第九届中国国际[互联网+]大学生创新创业大赛铜奖.pdf)
+![Certification](competition_1.pdf)
 
 
