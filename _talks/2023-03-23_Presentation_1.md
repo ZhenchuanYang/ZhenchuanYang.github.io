@@ -8,7 +8,7 @@ date: 2023-03-23
 location: "Virtual"
 ---
 
-This is a virtual conference presentation on AAG 2023 Annual Meeting. 
+This is a virtual conference presentation on AAG Annual Meeting 2023. 
 
 [More information here](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/5923/application/22927)
 
