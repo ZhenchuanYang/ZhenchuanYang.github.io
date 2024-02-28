@@ -10,6 +10,6 @@ location: "Hong Kong"
 
 參賽項目：地理資訊系統及元建模提升模塊化建築物流及現場布局
 
-！[Certification](competition_1.jpg)
+！[Certification](competition_1.pdf)
 
 
