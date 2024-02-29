@@ -4,3 +4,4 @@ excerpt: "<br/><img src='portfolio_1.jpg'>"
 collection: portfolio
 ---
 
+![portfolio_1]('portfolio_1.jpg')
