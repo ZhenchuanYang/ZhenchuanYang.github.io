@@ -1,6 +1,6 @@
 ---
 title: "The first photo taken at CUHK"
-excerpt: "<br/><img src='images/portfolio_1.jpg'>"
+excerpt: "<br/><img src='portfolio_1.jpg'>"
 collection: portfolio
 ---
 
